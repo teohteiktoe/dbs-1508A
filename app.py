@@ -41,10 +41,6 @@ if __name__ == "__main__":
 
 # In[ ]:
 
-
-larsd@google.com
-
-
 # In[ ]:
 
 
